@@ -20,3 +20,4 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
+![Prntscrn of JavaScript Quiz](https://user-images.githubusercontent.com/129123349/234743586-53ae2444-0fdd-4886-8d54-b8eb7130305a.PNG)
